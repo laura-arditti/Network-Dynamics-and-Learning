@@ -15,3 +15,9 @@ Material for the laboratories of the Network Dynamics and Learning course for th
 - Centrality measures
 - Visualizing centrality measures
 - Testing centrality measures
+
+## Lab02: Network Flows
+
+- Max Flow - Min Cut Theorem and the Ford Fulkerson algorithm
+- Python implementation of the Edmonds-Karp Algorithm
+- Network flows optimization with CVXPY
