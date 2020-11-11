@@ -21,3 +21,8 @@ Material for the laboratories of the Network Dynamics and Learning course for th
 - Max Flow - Min Cut Theorem and the Ford Fulkerson algorithm
 - Python implementation of the Edmonds-Karp Algorithm
 - Network flows optimization with CVXPY
+
+## Lab03: Averaging Dynamics with Stubborn Agents
+
+- simulating the averaging dynamics with stubborn nodes
+- optimal placement of stubborn nodes
