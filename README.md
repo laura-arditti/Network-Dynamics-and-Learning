@@ -24,5 +24,5 @@ Material for the laboratories of the Network Dynamics and Learning course for th
 
 ## Lab03: Averaging Dynamics with Stubborn Agents
 
-- simulating the averaging dynamics with stubborn nodes
-- optimal placement of stubborn nodes
+- Simulating the averaging dynamics with stubborn nodes
+- Optimal placement of stubborn nodes
