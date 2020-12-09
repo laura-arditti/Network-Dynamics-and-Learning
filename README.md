@@ -26,3 +26,15 @@ Material for the laboratories of the Network Dynamics and Learning course for th
 
 - Simulating the averaging dynamics with stubborn nodes
 - Optimal placement of stubborn nodes
+
+## Lab04: Markov Chains
+
+- Random Walks on graphs and the Flow Dynamics
+- Discrete Time Markov Chains
+  - Simulating DTMC
+  - Computing and approximating invariant probability distributions
+- Continuous Time Markov Chains
+  - Modelling CTMC: two equivalent approaches
+  - Simulating CTMC
+  - Estimating invariant probability distributions
+  - Katz Theorem: equivalence of spatial and time averages
