@@ -39,7 +39,7 @@ Material for the laboratories of the Network Dynamics and Learning course for th
   - Estimating invariant probability distributions
   - Katz Theorem: equivalence of spatial and time averages
   
-## Lab0: Game Theoretic Learning Processes
+## Lab05: Game Theoretic Learning Processes
 
 - Discrete-time asynchronous Best Response dynamics
   - D-T BRD as a random walk on the BR transition graph
