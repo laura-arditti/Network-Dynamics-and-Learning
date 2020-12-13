@@ -38,3 +38,17 @@ Material for the laboratories of the Network Dynamics and Learning course for th
   - Simulating CTMC
   - Estimating invariant probability distributions
   - Katz Theorem: equivalence of spatial and time averages
+  
+## Lab0: Game Theoretic Learning Processes
+
+- Discrete-time asynchronous Best Response dynamics
+  - D-T BRD as a random walk on the BR transition graph
+  - Asymptotic behaviour and invariant probability distribution
+  - BRD for non-potential games: the Rock-Scissor-Paper game 
+- Continuous-time asynchronous Best Response dynamics
+  - C-T BRD for network games: the network coordination game
+  - BRD for potential games: local optimization of the potential function
+- Continuous-time asyncronous Noisy Best Response dynamics
+  - C-T NBRD for network games: the network coordination game
+  - NBRD for potential games: asymptotic behaviour and invariant probability distribution
+  - Global optimization of the potential function and the effect of noise 
