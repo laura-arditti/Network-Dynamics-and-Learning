@@ -52,3 +52,16 @@ Material for the laboratories of the Network Dynamics and Learning course for th
   - C-T NBRD for network games: the network coordination game
   - NBRD for potential games: asymptotic behaviour and invariant probability distribution
   - Global optimization of the potential function and the effect of noise 
+
+## Lab06: Epidemic Models on Networks - Random Graphs
+
+- Pairwise Interacting Network Systems
+- Epidemic models on networks: SI, SIS, SIR models
+- Example: the SI model on a grid graph
+  - Modelling and simulation of the infection spread
+- Random graphs as a model for a real world citation network
+  - approximation with the Erdos-Renyi-model
+  - approximation with the configuration model
+  - approximation with the preferential attachment model
+  - Comparing models
+ 
